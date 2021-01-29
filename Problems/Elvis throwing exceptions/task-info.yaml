@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // TODO
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7627#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sat, 09 Jan 2021 17:26:30 UTC
+record: -1

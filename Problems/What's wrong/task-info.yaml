@@ -1,0 +1,18 @@
+type: code
+custom_name: What's wrong?
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val number: Int = readLine()!!
+        println(number.nextInt())
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11563#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11563#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 07 Jan 2021 19:26:33 UTC
+record: -1
